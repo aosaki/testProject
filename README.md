@@ -1,5 +1,5 @@
-![icon](http://github.com/aosaki/testProject/raw/master/pic/ic_launcher_square.jpg)
-![icon](http://github.com/aosaki/testProject/raw/master/pic/ic_ic_launcher_circle.jpg)
+![icon](http://github.com/aosaki/testProject/raw/master/pic/ic_launcher_square.png)
+![icon2](http://github.com/aosaki/testProject/raw/master/pic/ic_launcher_circle.png)
 
 # FOCUS
 FOCUS is an Android app that deals with mobile phone addiction, helps with time management, and provides recommendations 
@@ -11,7 +11,7 @@ time on electronics such as phones nowadays. The call for self-discipline and qu
 FOCUS from other similar products in the market. The crucial feature of FOCUS is to set up goals, which will facilitate users tackle
 challenges and fight against their "unwanted" habits.
 
-![icon](http://github.com/aosaki/testProject/raw/master/pic/orgin.jpg)  
+![icon](http://github.com/aosaki/testProject/raw/master/pic/orgin.png)  
 
 ## How it works
 Todo
