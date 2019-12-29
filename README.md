@@ -1,5 +1,5 @@
-![icon](http://github.com/aosaki/testProject/blob/master/pic/ic_launcher_square.png)
-![icon2](http://github.com/aosaki/testProject/blob/master/pic/ic_launcher_circle.png)
+![icon](https://github.com/aosaki/testProject/blob/master/pic/ic_launcher_square.png)
+![icon2](https://github.com/aosaki/testProject/blob/master/pic/ic_launcher_circle.png)
 
 # FOCUS
 FOCUS is an Android app that deals with mobile phone addiction, helps with time management, and provides recommendations 
@@ -11,7 +11,7 @@ time on electronics such as phones nowadays. The call for self-discipline and qu
 FOCUS from other similar products in the market. The crucial feature of FOCUS is to set up goals, which will facilitate users tackle
 challenges and fight against their "unwanted" habits.
 
-![icon](http://github.com/aosaki/testProject/blob/master/pic/transparent.png)  
+![icon](https://github.com/aosaki/testProject/blob/master/pic/transparent.png)  
 
 ## How it works
 Todo
@@ -40,9 +40,9 @@ Permission Required:
 Permission to access your app usage stats is required in order to determine whether the launched app is being used at the end of the time limit.
 
 ## Sceenshorts
-![icon](http://github.com/aosaki/testProject/blob/master/pic/01.png)  
-![icon](http://github.com/aosaki/testProject/blob/master/pic/03.png)  
-![icon](http://github.com/aosaki/testProject/blob/master/pic/04.png)  
-![icon](http://github.com/aosaki/testProject/blob/master/pic/05.png)  
-![icon](http://github.com/aosaki/testProject/blob/master/pic/06.png)  
-![icon](http://github.com/aosaki/testProject/blob/master/pic/07.png)  
+![icon](https://github.com/aosaki/testProject/blob/master/pic/01.png)  
+![icon](https://github.com/aosaki/testProject/blob/master/pic/03.png)  
+![icon](https://github.com/aosaki/testProject/blob/master/pic/04.png)  
+![icon](https://github.com/aosaki/testProject/blob/master/pic/05.png)  
+![icon](https://github.com/aosaki/testProject/blob/master/pic/06.png)  
+![icon](https://github.com/aosaki/testProject/blob/master/pic/07.png)  
