@@ -11,12 +11,12 @@ time on electronics such as phones nowadays. The call for self-discipline and qu
 FOCUS from other similar products in the market. The crucial feature of FOCUS is to set up goals, which will facilitate users tackle
 challenges and fight against their "unwanted" habits.
 
-![icon](https://github.com/aosaki/testProject/blob/master/pic/transparent.png)  
+![addict](https://github.com/aosaki/testProject/blob/master/pic/transparent.png)  
 
 ## How it works
 Todo
 
-## Features
+## Features V1.0-beta
 * Preferences for each app in daily usage time limit
 * Get notified when time limit is reached
 * Flat UI Design
@@ -25,9 +25,10 @@ Todo
 * Open Source
 * Coming Soon:
   *  Personalized recommendation system
-  *  Machine learning module: Set up goals just by saying it out loud
+  *  NLP module: Set up goals just by saying it out loud
   *  Pie chart statistics
   *  In-app tutorials to help you get started 
+  *  Social Network
 
 ## Getting Started
 This project uses the Gradle build system. To build this project, use the "gradle build" command or use "Import Project" in Android Studio.
@@ -37,12 +38,12 @@ This project uses the Gradle build system. To build this project, use the "gradl
 * Android Build Tools gradle:3.5.1
 
 Permission Required:
-Permission to access your app usage stats is required in order to determine whether the launched app is being used at the end of the time limit.
+Permission to access your app usage stats is required in order to determine whether the launched app is being used.
 
-## Sceenshorts
-![icon](https://github.com/aosaki/testProject/blob/master/pic/01.png)  
-![icon](https://github.com/aosaki/testProject/blob/master/pic/03.png)  
-![icon](https://github.com/aosaki/testProject/blob/master/pic/04.png)  
-![icon](https://github.com/aosaki/testProject/blob/master/pic/05.png)  
-![icon](https://github.com/aosaki/testProject/blob/master/pic/06.png)  
-![icon](https://github.com/aosaki/testProject/blob/master/pic/07.png)  
+## Sceenshorts 
+<img src="https://github.com/aosaki/testProject/blob/master/pic/01.png" alt="1" width="360" height="640">
+<img src="https://github.com/aosaki/testProject/blob/master/pic/03.png" alt="3" width="360" height="640">  
+<img src="https://github.com/aosaki/testProject/blob/master/pic/04.png" alt="4" width="360" height="640">
+<img src="https://github.com/aosaki/testProject/blob/master/pic/05.png" alt="5" width="360" height="640">  
+<img src="https://github.com/aosaki/testProject/blob/master/pic/07.png" alt="6" width="360" height="640">
+<img src="https://github.com/aosaki/testProject/blob/master/pic/06.png" alt="7" width="360" height="640">  
