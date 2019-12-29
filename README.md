@@ -41,9 +41,10 @@ Permission Required:
 Permission to access your app usage stats is required in order to determine whether the launched app is being used.
 
 ## Sceenshorts 
-<img src="https://github.com/aosaki/testProject/blob/master/pic/01.png" alt="1" width="360" height="640">
-<img src="https://github.com/aosaki/testProject/blob/master/pic/03.png" alt="3" width="360" height="640">  
-<img src="https://github.com/aosaki/testProject/blob/master/pic/04.png" alt="4" width="360" height="640">
-<img src="https://github.com/aosaki/testProject/blob/master/pic/05.png" alt="5" width="360" height="640">  
-<img src="https://github.com/aosaki/testProject/blob/master/pic/07.png" alt="6" width="360" height="640">
-<img src="https://github.com/aosaki/testProject/blob/master/pic/06.png" alt="7" width="360" height="640">  
+<img src="https://github.com/aosaki/testProject/blob/master/pic/00.png" alt="screen0" width="360" height="640">
+<img src="https://github.com/aosaki/testProject/blob/master/pic/01.png" alt="screen1" width="360" height="640">
+<img src="https://github.com/aosaki/testProject/blob/master/pic/03.png" alt="screen3" width="360" height="640">  
+<img src="https://github.com/aosaki/testProject/blob/master/pic/04.png" alt="screen4" width="360" height="640">
+<img src="https://github.com/aosaki/testProject/blob/master/pic/05.png" alt="screen5" width="360" height="640">  
+<img src="https://github.com/aosaki/testProject/blob/master/pic/07.png" alt="screen6" width="360" height="640">
+<img src="https://github.com/aosaki/testProject/blob/master/pic/06.png" alt="screen7" width="360" height="640">  
